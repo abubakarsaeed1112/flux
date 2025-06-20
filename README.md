@@ -1,4 +1,5 @@
 # FLUX
+# HAdi
 by Black Forest Labs: https://blackforestlabs.ai. Documentation for our API can be found here: [docs.bfl.ml](https://docs.bfl.ml/).
 
 ![grid](assets/grid.jpg)
